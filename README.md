@@ -9,7 +9,7 @@ Professor B. Heif is conducting experiments with a species of South American bee
 ## Honey Comb
 
 <p align="center">
-  <img width="1000" src="main/HoneyComb.jpeg">
+  <img width="1000" src="HoneyComb.jpeg">
 </p>
 
 
