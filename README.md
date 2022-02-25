@@ -1,9 +1,9 @@
 # BeeBreeding
 
-## This is my first python project which was given by WISE(Women In Software Engineering), TalentSprint
+### This is my first python project which was given by WISE(Women In Software Engineering), TalentSprint
 
 ## Problem Statement
----
+
 Professor B. Heif is conducting experiments with a species of South American bees that he found during an expedition to the Brazilian rain forest. The honey produced by these bees is of superior quality compared to the honey from European and North American honey bees. Unfortunately, the bees do not breed well in captivity. Professor Heif thinks the reason is that the placement of the different maggots (for workers, queens, etc.) within the honeycomb depends on environmental conditions, which are different in his laboratory and the rain forest. As a first step to validate his theory, Professor Heif wants to quantify the difference in maggot placement.For this he measures the distance between the cells of the comb into which the maggots are placed. To this end, the professor has labeled the cells by marking an arbitrary cell as number 1, and then labeling the remaining cells in a clockwise
 
 ## Honey Comb
@@ -22,5 +22,15 @@ Professor B. Heif is conducting experiments with a species of South American bee
 ## Approach
 
 - Identified that the numbers are in spiral pattern. so wrote a logic to arrange the numbers in a spiral pattern
-- Later found the shortest distance
+- Later found the shortest distance between two cells
+
+## Tech stack
+
+- LaTeX
+- pycharm
+- GitLab
+
+## Future scope
+
+To create a visual environment, in which moment of bees takes place in a shortest path
 
